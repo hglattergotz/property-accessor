@@ -1,0 +1,16 @@
+{
+    "name": "hgg/property-acces",
+    "description": "The Symfony PropertyAccessor as a trait",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Henning Glatter-Götz",
+            "email": "henning@glatter-gotz.com"
+        }
+    ],
+    "require": {
+        "symfony/property-access": "2.8.*"
+    },
+    "minimum-stability": "stable"
+}
