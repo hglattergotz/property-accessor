@@ -1,5 +1,5 @@
 {
-    "name": "hgg/property-acces",
+    "name": "hgg/property-accessor",
     "description": "The Symfony PropertyAccessor as a trait",
     "type": "library",
     "license": "MIT",
